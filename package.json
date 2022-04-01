@@ -18,7 +18,7 @@
   "dependencies": {
     "async": "^2.6.0",
     "gaze": "^1.1.0",
-    "lodash": "git://github.com/lodash/lodash.git",
+    "lodash": "https://github.com/lodash/lodash.git",
     "tiny-lr": "^1.1.1"
   },
   "devDependencies": {
